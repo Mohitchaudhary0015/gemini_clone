@@ -17,4 +17,15 @@ Responsive & Customizable UI – Built with clean components, conditional render
 Developer Friendly – Easily extend or customize components, styles, and model behavior.
 
 
-# gemini_clone
+# Demo vedio
+
+[![Watch the demo](https://drive.google.com/file/d/19bX-Z8y16IBmf7IlaGeuQ9zSbfhTh5ro/view?usp=drive_link)
+
+
+## Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/mohitchaudhary0015/Gemini_clone.git
+cd Gemini_clone
