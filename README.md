@@ -19,7 +19,10 @@ Developer Friendly – Easily extend or customize components, styles, and model 
 
 # Demo vedio
 
-[![Watch the demo](https://drive.google.com/file/d/19bX-Z8y16IBmf7IlaGeuQ9zSbfhTh5ro/view?usp=drive_link)
+
+Click the badge below to watch a video demonstration of the Gemini Clone:
+
+[![Watch the demo](https://img.shields.io/badge/Watch-Demo%20Video-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/19bX-Z8y16IBmf7IlaGeuQ9zSbfhTh5ro/view?usp=drive_link)
 
 
 ## Getting Started
